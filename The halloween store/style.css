@@ -1,0 +1,17 @@
+body{
+    margin: 15px;
+    padding: 20px;
+}
+#main-div{
+    padding: 25px;
+}
+img{
+    float: left;
+    margin: 1em;
+}
+#main-header{
+    color: yellow;
+}
+#list{
+    color: yellow;
+}
