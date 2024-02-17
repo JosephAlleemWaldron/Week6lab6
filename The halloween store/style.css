@@ -12,6 +12,10 @@ img{
 #main-header{
     color: yellow;
 }
-#list{
+.main-a-tags{
     color: yellow;
+}
+footer{
+    text-align: center;
+    font-size: small;
 }
