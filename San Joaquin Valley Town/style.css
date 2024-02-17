@@ -1,0 +1,30 @@
+body{
+    margin-top: 25px;
+    padding-top: 25px;
+    
+}
+#main-div{
+    text-align: center;
+}
+img{
+    float: left;
+    margin: 1em;   
+}
+#main-header{
+    color: rgb(177, 59, 5);
+}
+#para-two{
+    text-indent: 2em;
+}
+#para-four{
+    text-indent: 2em;
+}
+#footer{
+    text-align: right;
+}
+a{
+    color: red;
+}
+.date-passed{
+    color: gray;
+}
