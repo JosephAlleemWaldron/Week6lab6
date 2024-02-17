@@ -11,10 +11,32 @@ img{
 }
 #main-header{
     color: yellow;
+    text-shadow: 2px 2px 2px black;
+}
+#main-header-three:first-child::first-letter{
+    font-size: 200%;
+    
 }
 .main-a-tags{
+    cursor: pointer;
     color: yellow;
 }
+.main-a-tags1:active{
+    color: black;
+}
+.main-a-tags2:active{
+    color:black;
+}
+.main-a-tags3:active{
+    color: black;
+}
+.main-a-tags4:active{
+    color: black;
+}
+a:hover{
+    color: green;
+}
+
 footer{
     text-align: center;
     font-size: small;
